@@ -121,6 +121,7 @@ See [Contributing](#contributing).
 
 ### Analytics
 
+- [Funding Finder](https://foxyyy.com/now) - Cross-exchange crypto perpetual funding rate scanner. 20 exchanges, divergence ranking, arbitrage detection. `MIT` `Python`
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
 [Analytics](https://en.wikipedia.org/wiki/Analytics) is the systematic computational analysis of data or statistics. It is used for the discovery, interpretation, and communication of meaningful patterns in data.
